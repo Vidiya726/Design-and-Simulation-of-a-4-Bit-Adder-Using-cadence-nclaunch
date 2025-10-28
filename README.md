@@ -76,11 +76,16 @@ module tb_adder_4bit;
     initial begin
                
         // Test cases
-        A = 4'b0000; B = 4'b0000; Cin = 0; #10;
-        A = 4'b0011; B = 4'b0101; Cin = 0; #10;
-        A = 4'b1111; B = 4'b0001; Cin = 0; #10;
-        A = 4'b1010; B = 4'b0101; Cin = 1; #10;
+        A = 4'b0001; B = 4'b0010; Cin = 0; #10;
+        A = 4'b0101; B = 4'b0011; Cin = 0; #10;
+        A = 4'b1110; B = 4'b0001; Cin = 0; #10;
+        A = 4'b1110; B = 4'b0101; Cin = 1; #10;
         A = 4'b1111; B = 4'b1111; Cin = 1; #10;
+
+        $finish;
+    end
+endmodule
+
 
         $finish;
     end
