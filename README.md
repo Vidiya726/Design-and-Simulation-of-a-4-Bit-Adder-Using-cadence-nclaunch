@@ -101,13 +101,12 @@ endmodule
 ## Simulation Results
 
 ### Nclaunch Work Library Window
-
+<img width="1919" height="1079" alt="Screenshot 2025-10-28 144047" src="https://github.com/user-attachments/assets/1b427b43-55fb-443e-bc9b-80cae6e862db" />
+<img width="1919" height="1079" alt="Screenshot 2025-10-28 144026" src="https://github.com/user-attachments/assets/9ea1999f-b0e6-4966-b05f-22d254e4d55a" />
 
 
 ### Simulation Waveforms
-![Screenshot 2025-05-21 155512](https://github.com/user-attachments/assets/4d1457be-ef30-4b8b-a58d-aa8ac39c078c)
-
-
+<img width="1916" height="1079" alt="Screenshot 2025-10-28 143649" src="https://github.com/user-attachments/assets/3276034d-6902-4cbe-8a37-99e9dbf21523" />
 
 ## Results
 Successfully designed the 1-bit Full Adder and 4-bit Adder using Verilog HDL.
